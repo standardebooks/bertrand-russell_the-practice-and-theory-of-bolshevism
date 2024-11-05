@@ -34,45 +34,51 @@
 		<meta property="term" refines="#subject-1">sh85125852</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008101329</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In 1920, British philosopher &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Bertrand Russell&lt;/a&gt; travelled to Russia with the British Labour Delegation to assess the aftermath of the Russian Revolution and the growth of the inchoate socialist republic. Wracked by civil war and an oppressive trade blockade, Russia has descended into starvation, industrial failure, and civil unrest. In response, the Bolsheviks have resorted to austere methods to maintain social order and suppress perceived counterrevolutionary activity.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Practice and Theory of Bolshevism&lt;/i&gt;, Russell details his trip through Petrograd, Moscow, and the Russian countryside, and his interactions with Lenin and other prominent Soviet leaders. The second half of the book describes Russell’s critiques of Bolshevik fanatacism and the conditions he believes are necessary for the success of communism.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17350</dc:source>
 		<dc:source>https://archive.org/details/practiceandtheo00russgoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Errata and corrections in the Project Gutenberg transcription were incorporated directly into the text. Romanizations of Russian names were modernized as appropriate.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Practice_and_Theory_of_Bolshevism</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertrand-russell_the-practice-and-theory-of-bolshevism</meta>
 		<dc:creator id="author">Bertrand Russell</dc:creator>
 		<meta property="file-as" refines="#author">Russell, Bertrand</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Bertrand Arthur William Russell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Bertrand_Russell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056054</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">David Jagger</dc:contributor>
+		<meta property="file-as" refines="#artist">Jagger, David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/David_Jagger</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Thierry Alberto</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Alberto, Thierry</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Jeannie Howse</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Howse, Jeannie</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jacob Garber</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Garber, Jacob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.jwgarber.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
