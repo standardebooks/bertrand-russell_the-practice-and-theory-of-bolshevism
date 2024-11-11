@@ -79,10 +79,6 @@
 		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
-		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
-		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
