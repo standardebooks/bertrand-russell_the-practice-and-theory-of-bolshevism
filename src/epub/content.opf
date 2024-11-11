@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-11T22:39:45Z</dc:date>
+		<meta property="dcterms:modified">2024-11-11T22:39:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,15 +38,15 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In 1920, British philosopher &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Bertrand Russell&lt;/a&gt; travelled to Russia with the British Labour Delegation to assess the aftermath of the Russian Revolution and the growth of the inchoate socialist republic. Wracked by civil war and an oppressive trade blockade, Russia has descended into starvation, industrial failure, and civil unrest. In response, the Bolsheviks have resorted to austere methods to maintain social order and suppress perceived counterrevolutionary activity.&lt;/p&gt;
-			&lt;p&gt;Russell had previously described his thoughts on socialism in &lt;a href="https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom"&gt;&lt;i&gt;Roads to Freedom&lt;/i&gt;&lt;/a&gt; and expressed concern that Marxism would give too much power to the state. In &lt;i&gt;The Practice and Theory of Bolshevism&lt;/i&gt;, Russell details his trip through Petrograd, Moscow, and the Russian countryside, and his interactions with Lenin and other prominent Soviet leaders. The second half of the book describes Russell’s critiques of Bolshevik fanatacism and the conditions he believes are necessary for the success of communism. An alternative account of the British Labour Delegation from the Russian perspective can be found in &lt;a href="https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth"&gt;&lt;i&gt;The Bolshevik Myth&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;In 1920, British philosopher &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Bertrand Russell&lt;/a&gt; traveled to Russia with the British Labor Delegation to assess the aftermath of the Russian Revolution and the growth of the inchoate socialist republic. Wracked by civil war and an oppressive trade blockade, Russia has descended into starvation, industrial failure, and civil unrest. In response, the Bolsheviks have resorted to austere methods to maintain social order and suppress perceived counterrevolutionary activity.&lt;/p&gt;
+			&lt;p&gt;Russell had previously described his thoughts on socialism in &lt;a href="https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom"&gt;&lt;i&gt;Roads to Freedom&lt;/i&gt;&lt;/a&gt; and expressed concern that Marxism would give too much power to the state. In &lt;i&gt;The Practice and Theory of Bolshevism&lt;/i&gt;, Russell details his trip through Petrograd, Moscow, and the Russian countryside, and his interactions with Lenin and other prominent Soviet leaders. The second half of the book describes Russell’s critiques of Bolshevik fanaticism and the conditions he believes are necessary for the success of communism. An alternative account of the British Labor Delegation from the Russian perspective can be found in &lt;a href="https://standardebooks.org/ebooks/alexander-berkman"&gt;Alexander Berkman’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth"&gt;&lt;i&gt;The Bolshevik Myth&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17350</dc:source>
 		<dc:source>https://archive.org/details/practiceandtheo00russgoog</dc:source>
 		<meta property="se:production-notes">Errata and corrections in the Project Gutenberg transcription were incorporated directly into the text. Romanizations of Russian names were modernized as appropriate.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">37130</meta>
+		<meta property="se:reading-ease.flesch">45.8</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertrand-russell_the-practice-and-theory-of-bolshevism</meta>
 		<dc:creator id="author">Bertrand Russell</dc:creator>
 		<meta property="file-as" refines="#author">Russell, Bertrand</meta>
@@ -78,6 +78,10 @@
 		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
