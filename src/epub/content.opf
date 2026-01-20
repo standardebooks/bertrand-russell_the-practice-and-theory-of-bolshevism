@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/17350</dc:source>
 		<dc:source>https://archive.org/details/practiceandtheo00russgoog</dc:source>
 		<meta property="se:production-notes">Errata and corrections in the Project Gutenberg transcription were incorporated directly into the text. Romanizations of Russian names were modernized as appropriate.</meta>
-		<meta property="se:word-count">37130</meta>
+		<meta property="se:word-count">37073</meta>
 		<meta property="se:reading-ease.flesch">45.8</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertrand-russell_the-practice-and-theory-of-bolshevism</meta>
 		<dc:creator id="author">Bertrand Russell</dc:creator>
